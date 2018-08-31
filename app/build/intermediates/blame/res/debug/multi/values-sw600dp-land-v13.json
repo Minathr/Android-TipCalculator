@@ -1,0 +1,106 @@
+[
+    {
+        "outputFile": "C:\\201710 Android\\05\\ex2_TipCalculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 11,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "C:\\201710 Android\\05\\ex2_TipCalculator\\app\\src\\main\\res\\values-sw600dp-land\\layout.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 11,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\minat\\Documents\\BCIT - SSD\\Courses\\Android\\Day5\\ex2_TipCalculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 11,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "C:\\Users\\minat\\Documents\\BCIT - SSD\\Courses\\Android\\Day5\\ex2_TipCalculator\\app\\src\\main\\res\\values-sw600dp-land\\layout.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 11,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\201810 Android\\05\\ex2_TipCalculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 11,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "C:\\201810 Android\\05\\ex2_TipCalculator\\app\\src\\main\\res\\values-sw600dp-land\\layout.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 11,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\minat\\Documents\\BCIT - SSD\\Android\\Day5\\ex2_TipCalculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 11,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "C:\\Users\\minat\\Documents\\BCIT - SSD\\Android\\Day5\\ex2_TipCalculator\\app\\src\\main\\res\\values-sw600dp-land\\layout.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 11,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]
